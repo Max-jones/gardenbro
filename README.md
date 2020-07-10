@@ -14,6 +14,8 @@ Relay Board: https://amzn.to/37N7SNK
 WiFi Receptacble: https://bit.ly/2BvfFUh
 RuuviTag: https://ruuvi.com/
 
+Post: https://ledgardener.com/forum/viewtopic.php?t=5698
+
 Features
 --------
 
